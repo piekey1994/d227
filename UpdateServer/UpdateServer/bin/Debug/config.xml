@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <ip>
+    <pre>172.31.68.</pre>
+    <begin>1</begin>
+    <end>254</end>
+    <fileport>22227</fileport>
+    <cmdport>22228</cmdport>
+  </ip>
+  <command>
+    <data>C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe /u C:\Users\???
+copy /y C:\Users\temp\temp.file C:\Users\???
+C:\Windows\Microsoft.NET\Framework\v4.0.30319\InstallUtil.exe C:\Users\???
+net start ??
+    </data>
+  </command>
+</config>

@@ -1,0 +1,6 @@
+d:\documents\visual studio 2012\Projects\UpdateClient\UpdateClient\bin\Debug\UpdateClient.exe.config
+d:\documents\visual studio 2012\Projects\UpdateClient\UpdateClient\bin\Debug\UpdateClient.exe
+d:\documents\visual studio 2012\Projects\UpdateClient\UpdateClient\bin\Debug\UpdateClient.pdb
+d:\documents\visual studio 2012\Projects\UpdateClient\UpdateClient\obj\Debug\UpdateClient.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\UpdateClient\UpdateClient\obj\Debug\UpdateClient.exe
+d:\documents\visual studio 2012\Projects\UpdateClient\UpdateClient\obj\Debug\UpdateClient.pdb

@@ -1,0 +1,8 @@
+d:\documents\visual studio 2012\Projects\d227_clientService\d227_clientService\bin\Debug\d227_clientService.exe.config
+d:\documents\visual studio 2012\Projects\d227_clientService\d227_clientService\bin\Debug\d227_clientService.exe
+d:\documents\visual studio 2012\Projects\d227_clientService\d227_clientService\bin\Debug\d227_clientService.pdb
+d:\documents\visual studio 2012\Projects\d227_clientService\d227_clientService\obj\Debug\d227_clientService.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\d227_clientService\d227_clientService\obj\Debug\d227_clientService.ProjectInstaller.resources
+d:\documents\visual studio 2012\Projects\d227_clientService\d227_clientService\obj\Debug\d227_clientService.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\d227_clientService\d227_clientService\obj\Debug\d227_clientService.exe
+d:\documents\visual studio 2012\Projects\d227_clientService\d227_clientService\obj\Debug\d227_clientService.pdb

@@ -1,0 +1,9 @@
+d:\documents\visual studio 2012\Projects\UpdateClientService\UpdateClientService\bin\Debug\UpdateClientService.exe.config
+d:\documents\visual studio 2012\Projects\UpdateClientService\UpdateClientService\bin\Debug\UpdateClientService.exe
+d:\documents\visual studio 2012\Projects\UpdateClientService\UpdateClientService\bin\Debug\UpdateClientService.pdb
+d:\documents\visual studio 2012\Projects\UpdateClientService\UpdateClientService\obj\Debug\UpdateClientService.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\UpdateClientService\UpdateClientService\obj\Debug\UpdateClientService.ProjectInstaller.resources
+d:\documents\visual studio 2012\Projects\UpdateClientService\UpdateClientService\obj\Debug\UpdateClientService.Service1.resources
+d:\documents\visual studio 2012\Projects\UpdateClientService\UpdateClientService\obj\Debug\UpdateClientService.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\UpdateClientService\UpdateClientService\obj\Debug\UpdateClientService.exe
+d:\documents\visual studio 2012\Projects\UpdateClientService\UpdateClientService\obj\Debug\UpdateClientService.pdb

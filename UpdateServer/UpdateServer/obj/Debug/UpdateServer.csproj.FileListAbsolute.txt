@@ -1,0 +1,9 @@
+d:\documents\visual studio 2012\Projects\UpdateServer\UpdateServer\bin\Debug\UpdateServer.exe.config
+d:\documents\visual studio 2012\Projects\UpdateServer\UpdateServer\bin\Debug\UpdateServer.exe
+d:\documents\visual studio 2012\Projects\UpdateServer\UpdateServer\bin\Debug\UpdateServer.pdb
+d:\documents\visual studio 2012\Projects\UpdateServer\UpdateServer\obj\Debug\UpdateServer.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\UpdateServer\UpdateServer\obj\Debug\UpdateServer.Form1.resources
+d:\documents\visual studio 2012\Projects\UpdateServer\UpdateServer\obj\Debug\UpdateServer.Properties.Resources.resources
+d:\documents\visual studio 2012\Projects\UpdateServer\UpdateServer\obj\Debug\UpdateServer.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\UpdateServer\UpdateServer\obj\Debug\UpdateServer.exe
+d:\documents\visual studio 2012\Projects\UpdateServer\UpdateServer\obj\Debug\UpdateServer.pdb

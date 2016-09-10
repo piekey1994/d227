@@ -1,0 +1,6 @@
+d:\documents\visual studio 2012\Projects\d227_client\d227_client\bin\Debug\d227_client.exe.config
+d:\documents\visual studio 2012\Projects\d227_client\d227_client\obj\Debug\d227_client.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\d227_client\d227_client\bin\Debug\d227_client.exe
+d:\documents\visual studio 2012\Projects\d227_client\d227_client\bin\Debug\d227_client.pdb
+d:\documents\visual studio 2012\Projects\d227_client\d227_client\obj\Debug\d227_client.exe
+d:\documents\visual studio 2012\Projects\d227_client\d227_client\obj\Debug\d227_client.pdb

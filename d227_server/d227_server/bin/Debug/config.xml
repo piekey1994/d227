@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<config>
+  <ip>
+    <pre>172.31.68.</pre>
+    <begin>1</begin>
+    <end>254</end>
+    <port>11227</port>
+  </ip>
+  <command>
+    <data>echo a>D:\log.txt
+bcdedit /bootsequence {fea0bc7a-db7d-11e5-ba09-bba04f01750d}
+shutdown -r -t 0
+    </data>
+  </command>
+</config>

@@ -1,0 +1,9 @@
+d:\documents\visual studio 2012\Projects\d227_server\d227_server\bin\Debug\d227_server.exe.config
+d:\documents\visual studio 2012\Projects\d227_server\d227_server\bin\Debug\d227_server.exe
+d:\documents\visual studio 2012\Projects\d227_server\d227_server\bin\Debug\d227_server.pdb
+d:\documents\visual studio 2012\Projects\d227_server\d227_server\obj\Debug\d227_server.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\d227_server\d227_server\obj\Debug\d227_server.CommandLauncher.resources
+d:\documents\visual studio 2012\Projects\d227_server\d227_server\obj\Debug\d227_server.Properties.Resources.resources
+d:\documents\visual studio 2012\Projects\d227_server\d227_server\obj\Debug\d227_server.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\d227_server\d227_server\obj\Debug\d227_server.exe
+d:\documents\visual studio 2012\Projects\d227_server\d227_server\obj\Debug\d227_server.pdb
